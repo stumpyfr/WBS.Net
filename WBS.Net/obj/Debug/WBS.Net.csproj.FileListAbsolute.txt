@@ -1,0 +1,6 @@
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\WBS.Net\bin\Debug\WBS.Net.dll
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\WBS.Net\bin\Debug\WBS.Net.pdb
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\WBS.Net\bin\Debug\DevDefined.OAuth.dll
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\WBS.Net\obj\Debug\WBS.Net.csprojResolveAssemblyReference.cache
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\WBS.Net\obj\Debug\WBS.Net.dll
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\WBS.Net\obj\Debug\WBS.Net.pdb

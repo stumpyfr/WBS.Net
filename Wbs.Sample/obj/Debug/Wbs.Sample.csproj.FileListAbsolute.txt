@@ -1,0 +1,16 @@
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\bin\Debug\Wbs.Sample.exe.config
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\bin\Debug\Wbs.Sample.exe
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\bin\Debug\Wbs.Sample.pdb
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\bin\Debug\WBS.Net.dll
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\bin\Debug\DevDefined.OAuth.dll
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\bin\Debug\WBS.Net.pdb
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\Wbs.Sample.csprojResolveAssemblyReference.cache
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\MainWindow.baml
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\MainWindow.g.cs
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\App.g.cs
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\Wbs.Sample_MarkupCompile.cache
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\Wbs.Sample.g.resources
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\Wbs.Sample.Properties.Resources.resources
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\Wbs.Sample.csproj.GenerateResource.Cache
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\Wbs.Sample.exe
+C:\Users\Stumpy\Documents\GitHub\WBS.Net\Wbs.Sample\obj\Debug\Wbs.Sample.pdb
